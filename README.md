@@ -1,4 +1,4 @@
-# SpringAuthenticationWithMongoDB
+# AuthenticationWithMongoDB
 
 Sample project which shows how to use Spring security to authenticate with MongoDb.
 
